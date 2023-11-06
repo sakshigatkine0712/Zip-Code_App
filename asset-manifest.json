@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zip-Code_App/static/css/main.50c533fd.css",
+    "main.js": "/Zip-Code_App/static/js/main.6940138e.js",
+    "static/js/787.f2fc3fc8.chunk.js": "/Zip-Code_App/static/js/787.f2fc3fc8.chunk.js",
+    "index.html": "/Zip-Code_App/index.html",
+    "main.50c533fd.css.map": "/Zip-Code_App/static/css/main.50c533fd.css.map",
+    "main.6940138e.js.map": "/Zip-Code_App/static/js/main.6940138e.js.map",
+    "787.f2fc3fc8.chunk.js.map": "/Zip-Code_App/static/js/787.f2fc3fc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c533fd.css",
+    "static/js/main.6940138e.js"
+  ]
+}
